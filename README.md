@@ -1,9 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://nakul177.io)
 <h1 align="center">Hi 👋, I'm Nakul Uday Deskhmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul177&label=Profile%20views&color=blue&style=flat" alt="nakul177" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nakul177" alt="nakul177" /></a> </p>
 
 - 🌱 I’m currently learning **React.js,MongoDB,HTML,CSS,JavaScript,Node.js**
 
