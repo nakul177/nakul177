@@ -1,4 +1,4 @@
-[![MasterHead](https://code.org/shared/images/social-media/hoc_cse_social.png/s1600/2000_600px.gif)](https://nakul177.io)
+[![MasterHead](https://code.org/shared/images/social-media/hoc_cse_social.png)](https://nakul177.io)
 <h1 align="center">Hi 👋, I'm Nakul Uday Deskhmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
