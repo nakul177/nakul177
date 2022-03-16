@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **nakul777111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EzXzZu95LD5JXBH5avbqKBdKi7F-D3T5/view?usp=sharing](https://drive.google.com/file/d/1EzXzZu95LD5JXBH5avbqKBdKi7F-D3T5/view?usp=sharing)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EzXzZu95LD5JXBH5avbqKBdKi7F-D3T5/view?usp=sharing" target="blank">
 - ⚡ Fun fact **I was a captain in 5star hotel before becoming a software engineer.**
 
 <h3 align="left">Connect with me:</h3>
