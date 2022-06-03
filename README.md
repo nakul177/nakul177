@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **nakul777111@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolionakul.vercel.app/">portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://nakul-deshmukh.vercel.app/">portfolio</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EzXzZu95LD5JXBH5avbqKBdKi7F-D3T5/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lQQmN5GFEIcoy8EDpDa4EW99gazwDDmw/view?usp=sharing" target="blank">Resume</a>
 - ⚡ Fun fact **I was a captain in 5star hotel before becoming a software engineer.**
 
 <h3 align="left">Connect with me:</h3>
