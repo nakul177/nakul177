@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://nakul-deshmukh.vercel.app/">portfolio</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lQQmN5GFEIcoy8EDpDa4EW99gazwDDmw/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1p_9aaracQaep-8W0k_pqD6gNZ57wQDi_/view?usp=sharing" target="blank">Resume</a>
 - ⚡ Fun fact **I was a captain in 5star hotel before becoming a software engineer.**
 
 <h3 align="left">Connect with me:</h3>
